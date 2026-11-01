@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-0A1F44?style=for-the-badge&logo=gmail&logoColor=00B4FF)](mailto:230157688@ump.ac.za)
 [![Location](https://img.shields.io/badge/Thohoyandou,_South_Africa-0A1F44?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
-🏅 CHPC National Finalist 2025 &amp; 2026 &nbsp;·&nbsp; 🖥️ Captain, Team 3NCRYP+3D &nbsp;·&nbsp; 🚀 Founder, saxsprojects
+🏅 CHPC National Finalist 2025 &amp; 2026 &nbsp;·&nbsp; 🖥️ Captain: Team 3NCRYP+3D &nbsp;·&nbsp; 🚀 Founder: saxsprojects
 
 </div>
 
