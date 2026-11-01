@@ -16,7 +16,7 @@
 
 ## What I Do
 
-Software engineer with an Advanced Diploma in Information and Communication Technology (ICT) in Application Development (ADPICT) from the University of Mpumalanga. I build full-stack products and the infrastructure underneath them. My work spans high-performance computing, AI and computer-vision MVPs, and education and fintech apps aimed at real South African problems: university admissions, primary-school learning, local-market payments, road safety and service delivery. I run saxsprojects, my software studio, and I tutor and lead students on the side. I care about shipping things that actually work, with real tests and real deployments behind them.
+ICT graduate from the University of Mpumalanga (Diploma in ICT, 2023-2025, graduated May 2026), now studying the Advanced Diploma in ICT in Application Development (ADPICT). I build full-stack products and the infrastructure underneath them. My work spans high-performance computing, AI and computer-vision MVPs, and education and fintech apps aimed at real South African problems: university admissions, primary-school learning, local-market payments, road safety and service delivery. I run saxsprojects, my software studio, and I tutor and lead students on the side. I care about shipping things that actually work, with real tests and real deployments behind them.
 
 <br>
 
@@ -133,6 +133,15 @@ Ten full-stack MVPs, each with a FastAPI backend on Google Cloud Run and a React
 **HPC & DevOps:** OpenMPI · Intel MKL · Kubernetes · Cilium · Argo CD · Terraform · GitHub Actions
 
 </div>
+
+<br>
+
+## 🎓 Education
+
+| Qualification | Institution | Period |
+|---|---|---|
+| **Advanced Diploma in ICT: Application Development (ADPICT)** | University of Mpumalanga | 2026 - present |
+| **Diploma in Information and Communication Technology (ICT)** | University of Mpumalanga | 2023 - 2025 · graduated May 2026 |
 
 <br>
 
