@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-0A1F44?style=for-the-badge&logo=gmail&logoColor=00B4FF)](mailto:230157688@ump.ac.za)
 [![Location](https://img.shields.io/badge/Thohoyandou,_South_Africa-0A1F44?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
-🏅 CHPC National Finalist 2025 &nbsp;·&nbsp; 🖥️ Captain, Team 3NCRYP+3D (CHPC SCC 2026) &nbsp;·&nbsp; 🚀 Founder, SAXS Projects
+🏅 CHPC National Finalist 2025 &amp; 2026 &nbsp;·&nbsp; 🖥️ Captain, Team 3NCRYP+3D &nbsp;·&nbsp; 🚀 Founder, saxsprojects
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## What I Do
 
-Advanced Diploma in ICT student at the University of Mpumalanga (UMP DIPICT graduate) who builds full-stack products and the infrastructure underneath them. My work spans high-performance computing, AI and computer-vision MVPs, and education and fintech apps aimed at real South African problems: university admissions, primary-school learning, local-market payments, road safety and service delivery. I run SAXS Projects, a small software studio, and I tutor and lead students on the side. I care about shipping things that actually work, with real tests and real deployments behind them.
+Software engineer with an Advanced Diploma in Information and Communication Technology (ICT) in Application Development (ADPICT) from the University of Mpumalanga. I build full-stack products and the infrastructure underneath them. My work spans high-performance computing, AI and computer-vision MVPs, and education and fintech apps aimed at real South African problems: university admissions, primary-school learning, local-market payments, road safety and service delivery. I run saxsprojects, my software studio, and I tutor and lead students on the side. I care about shipping things that actually work, with real tests and real deployments behind them.
 
 <br>
 
@@ -141,6 +141,7 @@ Ten full-stack MVPs, each with a FastAPI backend on Google Cloud Run and a React
 | | |
 |---|---|
 | 🏅 **National Finalist, CHPC Student Cluster Competition 2025** | Centre for High Performance Computing national round |
+| 🏅 **National Finalist, CHPC Student Cluster Competition 2026** | Centre for High Performance Computing national round |
 | 🖥️ **Team Captain, CHPC SCC 2026** | Leading Team 3NCRYP+3D (University of Mpumalanga) |
 | 💡 **EDHE Hackathon 2026** | Built Ukhona Pay for the Market Connectivity challenge |
 | 🎓 **Tutor & Student Leader** | University of Mpumalanga |
