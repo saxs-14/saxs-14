@@ -150,8 +150,8 @@ Ten full-stack MVPs, each with a FastAPI backend on Google Cloud Run and a React
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saxs-14&theme=tokyonight" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=saxs-14&theme=tokyonight&hide_border=true&background=0A1F44&ring=00B4FF&fire=00B4FF&currStreakLabel=00B4FF" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saxs-14&theme=tokyonight&bg_color=06163A&title_color=7DF9FF&text_color=9BE7FF&icon_color=22D3EE&border_color=22D3EE&chart_color=00B4FF" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=saxs-14&hide_border=false&border=22D3EE&background=06163A&ring=00B4FF&fire=7DF9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7DF9FF&sideLabels=9BE7FF&dates=9BE7FF&stroke=22D3EE" height="165"/>
 </div>
 
 <br>
