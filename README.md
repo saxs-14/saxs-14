@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,100:F59E0B&height=200&section=header&text=Phathutshedzo%20Mamagau&fontSize=48&fontColor=FAFAF8&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20HPC%20and%20AI%20%7C%20Building%20for%20South%20Africa&descAlignY=58&descSize=18&descColor=F59E0B" width="100%"/>
+<img src="./assets/banner.svg" width="100%" alt="Phathutshedzo Mamagau - Software Engineer, HPC and AI"/>
 
 <br>
 
-[![Website](https://img.shields.io/badge/saxsprojects.co.za-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=1A0B2E)](https://www.saxsprojects.co.za)
-[![Email](https://img.shields.io/badge/Email-1A0B2E?style=for-the-badge&logo=gmail&logoColor=F59E0B)](mailto:230157688@ump.ac.za)
-[![Location](https://img.shields.io/badge/Thohoyandou,_South_Africa-1A0B2E?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+[![Website](https://img.shields.io/badge/saxsprojects.co.za-00B4FF?style=for-the-badge&logo=googlechrome&logoColor=0A1F44)](https://www.saxsprojects.co.za)
+[![Email](https://img.shields.io/badge/Email-0A1F44?style=for-the-badge&logo=gmail&logoColor=00B4FF)](mailto:230157688@ump.ac.za)
+[![Location](https://img.shields.io/badge/Thohoyandou,_South_Africa-0A1F44?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
 🏅 CHPC National Finalist 2025 &nbsp;·&nbsp; 🖥️ Captain, Team 3NCRYP+3D (CHPC SCC 2026) &nbsp;·&nbsp; 🚀 Founder, SAXS Projects
 
@@ -33,8 +33,8 @@ Helps South African matriculants calculate their APS and match it against real a
 
 `Next.js` `TypeScript` `Firebase` `GitHub Actions`
 
-[![Repo](https://img.shields.io/badge/View_Repo-F59E0B?style=flat-square&logo=github&logoColor=1A0B2E)](https://github.com/saxs-14/UCAG)
-[![Live](https://img.shields.io/badge/Live_Demo-1A0B2E?style=flat-square&logo=vercel&logoColor=F59E0B)](https://ucag-nine.vercel.app)
+[![Repo](https://img.shields.io/badge/View_Repo-00B4FF?style=flat-square&logo=github&logoColor=0A1F44)](https://github.com/saxs-14/UCAG)
+[![Live](https://img.shields.io/badge/Live_Demo-0A1F44?style=flat-square&logo=vercel&logoColor=00B4FF)](https://ucag-nine.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -46,8 +46,8 @@ Fintech QR-payment platform for traders and shoppers in Mbombela/Nelspruit, buil
 
 `JavaScript` `Cloud Run` `Vercel`
 
-[![Repo](https://img.shields.io/badge/View_Repo-F59E0B?style=flat-square&logo=github&logoColor=1A0B2E)](https://github.com/saxs-14/ukhona-pay)
-[![Live](https://img.shields.io/badge/Live_Demo-1A0B2E?style=flat-square&logo=vercel&logoColor=F59E0B)](https://ukhona-pay.vercel.app)
+[![Repo](https://img.shields.io/badge/View_Repo-00B4FF?style=flat-square&logo=github&logoColor=0A1F44)](https://github.com/saxs-14/ukhona-pay)
+[![Live](https://img.shields.io/badge/Live_Demo-0A1F44?style=flat-square&logo=vercel&logoColor=00B4FF)](https://ukhona-pay.vercel.app)
 
 </td>
 </tr>
@@ -61,8 +61,8 @@ Educational game app for Grade 1-7 learners with Learner, Parent and Teacher rol
 
 `Flutter` `Dart` `Firebase` `Cloud Functions`
 
-[![Repo](https://img.shields.io/badge/View_Repo-F59E0B?style=flat-square&logo=github&logoColor=1A0B2E)](https://github.com/saxs-14/questkids)
-[![Live](https://img.shields.io/badge/Live_Demo-1A0B2E?style=flat-square&logo=vercel&logoColor=F59E0B)](https://questkids-two.vercel.app)
+[![Repo](https://img.shields.io/badge/View_Repo-00B4FF?style=flat-square&logo=github&logoColor=0A1F44)](https://github.com/saxs-14/questkids)
+[![Live](https://img.shields.io/badge/Live_Demo-0A1F44?style=flat-square&logo=vercel&logoColor=00B4FF)](https://questkids-two.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -74,7 +74,7 @@ A long-term OS project with a shared Rust core, a GTK4 desktop shell on Linux, a
 
 `Rust` `GTK4` `Android` `Buildroot`
 
-[![Repo](https://img.shields.io/badge/View_Repo-F59E0B?style=flat-square&logo=github&logoColor=1A0B2E)](https://github.com/saxs-14/Protea-OS)
+[![Repo](https://img.shields.io/badge/View_Repo-00B4FF?style=flat-square&logo=github&logoColor=0A1F44)](https://github.com/saxs-14/Protea-OS)
 
 </td>
 </tr>
@@ -114,7 +114,7 @@ Ten full-stack MVPs, each with a FastAPI backend on Google Cloud Run and a React
 **Systems & Infra:** Protea OS · CHPC cluster work<br>
 **AI / Computer Vision:** SafeSpeed · PotholeWatch · FireWatch · AgriVision · and more
 
-[![All Repos](https://img.shields.io/badge/Browse_All_Repositories-1A0B2E?style=for-the-badge&logo=github&logoColor=F59E0B)](https://github.com/saxs-14?tab=repositories)
+[![All Repos](https://img.shields.io/badge/Browse_All_Repositories-0A1F44?style=for-the-badge&logo=github&logoColor=00B4FF)](https://github.com/saxs-14?tab=repositories)
 
 </div>
 
@@ -151,7 +151,7 @@ Ten full-stack MVPs, each with a FastAPI backend on Google Cloud Run and a React
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saxs-14&theme=tokyonight" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=saxs-14&theme=tokyonight&hide_border=true&background=1A0B2E&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=saxs-14&theme=tokyonight&hide_border=true&background=0A1F44&ring=00B4FF&fire=00B4FF&currStreakLabel=00B4FF" height="165"/>
 </div>
 
 <br>
@@ -160,8 +160,8 @@ Ten full-stack MVPs, each with a FastAPI backend on Google Cloud Run and a React
 
 ### 📫 Let's Build Something
 
-[![Website](https://img.shields.io/badge/saxsprojects.co.za-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=1A0B2E)](https://www.saxsprojects.co.za)
-[![Email](https://img.shields.io/badge/Email-1A0B2E?style=for-the-badge&logo=gmail&logoColor=F59E0B)](mailto:230157688@ump.ac.za)
+[![Website](https://img.shields.io/badge/saxsprojects.co.za-00B4FF?style=for-the-badge&logo=googlechrome&logoColor=0A1F44)](https://www.saxsprojects.co.za)
+[![Email](https://img.shields.io/badge/Email-0A1F44?style=for-the-badge&logo=gmail&logoColor=00B4FF)](mailto:230157688@ump.ac.za)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saxs-14)
 
 <sub>© 2026 Phathutshedzo Mamagau</sub>
